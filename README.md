@@ -5,7 +5,7 @@ This project is a simple TeamSpeak server.
 Project is created with:
 * Bash
 	
-## Setup
+## Run
 To run this script, passing URL, USER, and run as ROOT.
 
 ```
