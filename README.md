@@ -1,4 +1,13 @@
-# teamspeakServer
-A simple server Teamspeak
-Passing URL, USER.
-Run the script as root.
+##  Info
+This project is a simple TeamSpeak server.
+	
+## Technologies
+Project is created with:
+* Bash
+	
+## Setup
+To run this script, passing URL, USER, and run as ROOT.
+
+```
+sudo ./teamspeakServer.sh <URL> <USER>
+```
